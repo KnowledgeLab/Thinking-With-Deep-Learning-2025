@@ -10,6 +10,6 @@ In Week 3, you turn in **two** notebooks. Submit Notebook 1 (required). Along wi
 
 Notebook 1: Sampling **(Required)** https://colab.research.google.com/github/KnowledgeLab/thinking_with_deep_learning2025/blob/main/Tutorials-Homework_Notebooks/Week%203/Tutorial_1_Sampling_Human_Learning.ipynb
 
-Notebook 2: Active Learning **(Choose either 2 or 3)**
+Notebook 2: Active Learning **(Choose either 2 or 3)** https://colab.research.google.com/github/KnowledgeLab/thinking_with_deep_learning2025/blob/main/Tutorials-Homework_Notebooks/Week%203/Tutorial_2_active_learning.ipynb
 
 Notebook 3: Causal Inference **(Choose either 2 or 3)** https://colab.research.google.com/github/KnowledgeLab/thinking_with_deep_learning2025/blob/main/Tutorials-Homework_Notebooks/Week%203/Tutorial_3_Intro_Causal_Inference.ipynb
