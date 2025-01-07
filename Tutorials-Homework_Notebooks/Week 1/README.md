@@ -5,6 +5,6 @@ While it is not necessary for you to fork this repository or download the static
 
 Google Colab Notebooks:
 
-Notebook 1: https://colab.research.google.com/github/KnowledgeLab/thinking_with_deep_learning2025/Tutorials-Homework_Notebooks/Week 1/Tutorial_1_ML_Pipelines.ipynb
+Notebook 1: https://colab.research.google.com/github/KnowledgeLab/thinking_with_deep_learning2025/blob/main/Tutorials-Homework_Notebooks/Week%201/Tutorial_1_ML_Pipelines.ipynb
 
-Notebook 2: https://colab.research.google.com/github/KnowledgeLab/thinking_with_deep_learning2025/Tutorials-Homework_Notebooks/Week 1/Tutorial_2_Intro_NNs.ipynb
+Notebook 2: https://colab.research.google.com/github/KnowledgeLab/thinking_with_deep_learning2025/blob/main/Tutorials-Homework_Notebooks/Week%201/Tutorial_2_Intro_NNs.ipynb
