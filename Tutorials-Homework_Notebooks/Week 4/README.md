@@ -5,4 +5,4 @@ Below you have links to a Colab version of the notebook, where you are encourage
 While it is not necessary for you to fork this repository or download the static notebooks present here, it is advised to do so so that you have a local copy as well. You can also view the static notebooks on nbviewer if you are just browsing content.
 
 * Google Colab Notebooks:
-[https://colab.research.google.com/github/KnowledgeLab/thinking_with_deep_learning2025/blob/main/Tutorials-Homework_Notebooks/Week%204/Week_4_2025.ipynb](https://colab.research.google.com/github/KnowledgeLab/Thinking-With-Deep-Learning-2025/blob/main/Tutorials-Homework_Notebooks/Week%203/Week%204/Week_4_2025.ipynb)
+https://colab.research.google.com/github/KnowledgeLab/Thinking-With-Deep-Learning-2025/blob/main/Tutorials-Homework_Notebooks/Week%204/Week_4_2025.ipynb
